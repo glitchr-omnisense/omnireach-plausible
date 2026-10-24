@@ -1,0 +1,9 @@
+{
+    "results": [
+        {"metrics": [101], "dimensions": ["2026-10-01", "Desktop"]},
+        {"metrics": [77], "dimensions": ["2026-10-01", "Mobile"]},
+        {"metrics": [96], "dimensions": ["2026-10-02", "Desktop"]}
+    ],
+    "meta": {},
+    "query": {"site_id": "atelier.example.org", "metrics": ["visitors"], "dimensions": ["time:day", "visit:device"]}
+}

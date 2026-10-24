@@ -1,0 +1,18 @@
+{
+    "results": [
+        {"metrics": [3120, 3644, 7012, 54.0], "dimensions": ["/"]},
+        {"metrics": [912, 1005, 2210, 61.0], "dimensions": ["/ateliers"]},
+        {"metrics": [304, 330, 455, 72.0], "dimensions": ["/contact"]}
+    ],
+    "meta": {},
+    "query": {
+        "site_id": "atelier.example.org",
+        "metrics": ["visitors", "visits", "pageviews", "bounce_rate"],
+        "date_range": ["2026-10-01T00:00:00+02:00", "2026-10-31T23:59:59+01:00"],
+        "filters": [],
+        "dimensions": ["visit:entry_page"],
+        "order_by": [["visitors", "desc"]],
+        "include": {},
+        "pagination": {"limit": 1000, "offset": 0}
+    }
+}
