@@ -1,6 +1,6 @@
 # omnireach/plausible
 
-[omniscient/omnireach](https://github.com/glitchr-studio/omnireach)'s Plausible, under any PHP
+[omnisense/omnireach](https://github.com/glitchr-omnisense/omnireach)'s Plausible, under any PHP
 host: visitors, visits, pageviews, bounce rate and visit duration of a site, by page, entry page,
 source, country, device or day, combined as needed, through Plausible's Stats API v2 -
 plausible.io or a self-hosted Community Edition.
